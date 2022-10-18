@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,7 +9,9 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-	<script src="index.js"></script>
-	<p>Hi there</p>
+	<!--<script src="index.js"></script>-->
+	<?php 
+	     echo "Hi there";
+	     ?>
   </body>
 </html>
